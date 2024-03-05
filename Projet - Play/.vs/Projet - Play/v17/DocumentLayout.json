@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\apiplay\\repositories\\joueurrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\repositories\\joueurrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\apiplay\\models\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\models\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\apiplay\\models\\jeux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\models\\jeux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\apiplay\\models\\joueurjeux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\models\\joueurjeux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\apiplay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\apiplay\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApiPlay\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:29:58.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JoueurRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JoueurRepository.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Repositories\\JoueurRepository.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JoueurRepository.cs",
+              "RelativeToolTip": "ApiPlay\\Repositories\\JoueurRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:14:18.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ApiPlay\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:02:18.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JoueurJeux.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\JoueurJeux.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Models\\JoueurJeux.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\JoueurJeux.cs",
+              "RelativeToolTip": "ApiPlay\\Models\\JoueurJeux.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:47:36.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jeux.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\Jeux.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Models\\Jeux.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\Jeux.cs",
+              "RelativeToolTip": "ApiPlay\\Models\\Jeux.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:46:46.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\Joueur.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Models\\Joueur.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\Joueur.cs",
+              "RelativeToolTip": "ApiPlay\\Models\\Joueur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:45:49.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
