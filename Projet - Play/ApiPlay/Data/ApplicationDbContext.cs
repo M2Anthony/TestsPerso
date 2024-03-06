@@ -5,23 +5,30 @@ namespace ApiPlay.Data
 {
     public class ApplicationDbContext : DbContext
     {
-        private readonly ApplicationDbContext _dbContext;
-
-        public ApplicationDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
 
-        DbSet<Joueur> Joueurs { get; set; }
-        DbSet<Jeux> Jeuxs { get; set; }
-        DbSet<JoueurJeux> JoueurJeuxs { get; set; }
+        public DbSet<Joueur> Joueurs { get; set; }
+        public DbSet<Jeux> Jeuxs { get; set; }
+        public DbSet<JoueurJeux> JoueurJeuxs { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Joueur>().HasData(
-                new Joueur
-                {
-                    Id = 1, Pseudo = "Anthony", Age = 29, CheminAvatar = "Images/avatar_anthony"
-                });
+            modelBuilder.Entity<JoueurJeux>()
+                .HasKey(pc => new { pc.JoueurId, pc.JeuxId });
+
+            modelBuilder.Entity<JoueurJeux>()
+                .HasOne(jo => jo.Joueur)
+                .WithMany(jj => jj.JoueurJeuxs)
+                .HasForeignKey(fk => fk.JoueurId);
+
+            modelBuilder.Entity<JoueurJeux>()
+                .HasOne(jo => jo.Jeux)
+                .WithMany(jj => jj.JoueurJeuxs)
+                .HasForeignKey(fk => fk.JeuxId);
+
+
         }
     }
 }

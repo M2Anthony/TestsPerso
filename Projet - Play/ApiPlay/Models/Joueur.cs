@@ -10,6 +10,6 @@
 
         public string? CheminAvatar { get; set; }
 
-        public ICollection<JoueurJeux>? JoueurJeuxs { get; set; } = new List<JoueurJeux>();
+        public ICollection<JoueurJeux>? JoueurJeuxs { get; set; }
     }
 }

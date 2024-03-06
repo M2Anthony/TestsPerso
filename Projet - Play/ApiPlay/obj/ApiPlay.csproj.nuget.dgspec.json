@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\ApiPlay.csproj": {}
+    "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\ApiPlay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\ApiPlay.csproj": {
+    "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\ApiPlay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\ApiPlay.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\ApiPlay.csproj",
         "projectName": "ApiPlay",
-        "projectPath": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\ApiPlay.csproj",
-        "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\ApiPlay\\obj\\",
+        "projectPath": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\ApiPlay.csproj",
+        "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,9 +58,19 @@
               "target": "Package",
               "version": "[6.0.27, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

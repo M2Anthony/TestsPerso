@@ -1,4 +1,6 @@
-﻿using ApiPlay.Models;
+﻿using ApiPlay.Data;
+using ApiPlay.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
 namespace ApiPlay.Repositories
@@ -6,37 +8,71 @@ namespace ApiPlay.Repositories
     public class JoueurRepository : IRepository<Joueur>
     {
 
-        private 
+        private ApplicationDbContext _dbContext { get; }
 
-        public Task<bool> Ajouter(Joueur entite)
+        public JoueurRepository(ApplicationDbContext dbContext)
         {
-            throw new NotImplementedException();
+            _dbContext = dbContext;
         }
 
-        public Task<bool> Modifier(Joueur entite)
+        // Create
+
+        public async Task<bool> Ajouter(Joueur joueurAAjouter)
         {
-            throw new NotImplementedException();
+            if (joueurAAjouter == null)
+            {
+                return false;
+            }
+
+            await _dbContext.Joueurs.AddAsync(joueurAAjouter);
+            return await _dbContext.SaveChangesAsync() > 0;
         }
 
-        public Task<Joueur>? Obtenir(Expression<Func<Joueur, bool>> predicate)
+        // Read
+
+        public async Task<Joueur>? Obtenir(Expression<Func<Joueur, bool>> predicate)
         {
-            throw new NotImplementedException();
+            return await _dbContext.Joueurs.FindAsync(predicate);
         }
 
-        public Task<ICollection<Joueur>>? ObtenirTous()
+        public async Task<ICollection<Joueur>>? ObtenirTous()
         {
-            throw new NotImplementedException();
+            return await _dbContext.Joueurs.ToListAsync();
         }
 
-        public Task<ICollection<Joueur>>? ObtenirTous(Expression<Func<Joueur, bool>> predicate)
+        public async Task<ICollection<Joueur>>? ObtenirTous(Expression<Func<Joueur, bool>> predicate)
         {
-            throw new NotImplementedException();
+            return await _dbContext.Joueurs.Where(predicate).ToListAsync();
         }
 
-        public Task<Joueur>? ObtenirViaId(int id)
+        public async Task<Joueur>? ObtenirViaId(int id)
         {
-            throw new NotImplementedException();
+            return await _dbContext.Joueurs.FirstOrDefaultAsync(j => j.Id == id);
         }
+
+        // Update
+
+        public async Task<bool> Modifier(Joueur joueurModifie)
+        {
+            var joueurFromDb = await ObtenirViaId(joueurModifie.Id);
+
+            if (joueurFromDb == null)
+            {
+                return false;
+            }
+
+            if (joueurFromDb.Pseudo != joueurModifie.Pseudo)
+                joueurFromDb.Pseudo = joueurModifie.Pseudo;
+            if (joueurFromDb.Age != joueurModifie.Age)
+                joueurFromDb.Age = joueurModifie.Age;
+            if (joueurFromDb.CheminAvatar != joueurModifie.CheminAvatar)
+                joueurFromDb.CheminAvatar = joueurModifie.CheminAvatar;
+
+            return await _dbContext.SaveChangesAsync() > 0;
+
+        }
+
+        // Delete
 
         public Task<bool> Supprimer(int id)
         {

@@ -2,7 +2,7 @@
 
 namespace ApiPlay.Repositories
 {
-    public interface IRepository<EntiteGenerique> where EntiteGenerique : class
+    public interface IRepository<EntiteGenerique>
     {
         // CRUD
 
