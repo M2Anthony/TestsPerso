@@ -37,17 +37,17 @@ namespace ApiPlay.Repositories
 
         public async Task<ICollection<Joueur>>? ObtenirTous()
         {
-            return await _dbContext.Joueurs.ToListAsync();
+            return await _dbContext.Joueurs.Include(j => j.JoueurJeuxs).ThenInclude(j => j.Jeux).ToListAsync();
         }
 
         public async Task<ICollection<Joueur>>? ObtenirTous(Expression<Func<Joueur, bool>> predicate)
         {
-            return await _dbContext.Joueurs.Where(predicate).ToListAsync();
+            return await _dbContext.Joueurs.Where(predicate).Include(j => j.JoueurJeuxs).ThenInclude(j => j.Jeux).ToListAsync();
         }
 
         public async Task<Joueur>? ObtenirViaId(int id)
         {
-            return await _dbContext.Joueurs.FirstOrDefaultAsync(j => j.Id == id);
+            return await _dbContext.Joueurs.Include(j => j.JoueurJeuxs).ThenInclude(j => j.Jeux).FirstOrDefaultAsync(j => j.Id == id);
         }
 
         // Update
@@ -68,15 +68,27 @@ namespace ApiPlay.Repositories
             if (joueurFromDb.CheminAvatar != joueurModifie.CheminAvatar)
                 joueurFromDb.CheminAvatar = joueurModifie.CheminAvatar;
 
+            _dbContext.Joueurs.Update(joueurFromDb);
+
             return await _dbContext.SaveChangesAsync() > 0;
 
         }
 
         // Delete
 
-        public Task<bool> Supprimer(int id)
+        public async Task<bool> Supprimer(int id)
         {
-            throw new NotImplementedException();
+            var joueurASupprimer = await ObtenirViaId(id);
+
+            if (joueurASupprimer == null)
+            {
+                return false;
+            }
+
+            _dbContext.Joueurs.Remove(joueurASupprimer);
+
+            return await _dbContext.SaveChangesAsync() > 0;
+
         }
     }
 }

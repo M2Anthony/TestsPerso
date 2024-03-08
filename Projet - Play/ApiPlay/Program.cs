@@ -1,39 +1,30 @@
+using ApiPlay;
 using ApiPlay.Data;
 using ApiPlay.Models;
 using ApiPlay.Repositories;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
-builder.Services.AddTransient<DataSeed>();
+builder.Services.AddControllers().AddJsonOptions(x =>
+                x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-string connectionStrings = builder.Configuration.GetConnectionString("DefaultConnection")!;
+builder.Services.AddScoped<IRepository<Joueur>, JoueurRepository>();
+builder.Services.AddScoped<IRepository<Jeux>, JeuxRepository>();
+builder.Services.AddScoped<IRepository<JoueurJeux>, JoueurJeuxRepository>();
+
+string connectionStrings = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionStrings));
 
-builder.Services.AddScoped<IRepository<Joueur>, JoueurRepository>();
 //builder.Services.AddScoped<IRepository<Jeux>, JeuxRepository>();
 
 
 var app = builder.Build();
-
-if (args.Length == 1 && args[0].ToLower() == "seeddata")
-    SeedData(app);
-
-void SeedData(IHost app)
-{
-    var scopedFactory = app.Services.GetService<IServiceScopeFactory>();
-
-    using (var scope = scopedFactory.CreateScope())
-    {
-        var service = scope.ServiceProvider.GetService<DataSeed>();
-        service.DataSeedDbContext();
-    }
-}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -43,6 +34,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(options =>
+{
+    options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+});
 
 app.UseAuthorization();
 

@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\controllers\\jeuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\controllers\\jeuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\repositories\\jeuxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\repositories\\jeuxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\repositories\\joueurrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\repositories\\joueurrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Migrations\\20240306152533_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiPlay\\Migrations\\20240306152533_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\controllers\\joueurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\controllers\\joueurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\data\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\data\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\models\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\models\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JoueurRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JoueurRepository.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Repositories\\JoueurRepository.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JoueurRepository.cs",
-              "RelativeToolTip": "ApiPlay\\Repositories\\JoueurRepository.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwEYAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:28:47.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240306152533_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Migrations\\20240306152533_InitialMigration.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Migrations\\20240306152533_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Migrations\\20240306152533_InitialMigration.cs",
-              "RelativeToolTip": "ApiPlay\\Migrations\\20240306152533_InitialMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:25:34.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ApiPlay\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:24:35.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Program.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Program.cs",
-              "RelativeToolTip": "ApiPlay\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:14:57.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataSeed.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Data\\DataSeed.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Data\\DataSeed.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Data\\DataSeed.cs",
-              "RelativeToolTip": "ApiPlay\\Data\\DataSeed.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:14:49.716Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -104,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JeuxRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JeuxRepository.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Repositories\\JeuxRepository.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JeuxRepository.cs",
+              "RelativeToolTip": "ApiPlay\\Repositories\\JeuxRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvycAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:26:18.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JeuxController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Controllers\\JeuxController.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Controllers\\JeuxController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Controllers\\JeuxController.cs",
+              "RelativeToolTip": "ApiPlay\\Controllers\\JeuxController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:17:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JoueurController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Controllers\\JoueurController.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Controllers\\JoueurController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Controllers\\JoueurController.cs",
+              "RelativeToolTip": "ApiPlay\\Controllers\\JoueurController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:03:18.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\Joueur.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Models\\Joueur.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\Joueur.cs",
+              "RelativeToolTip": "ApiPlay\\Models\\Joueur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:47:10.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JoueurRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JoueurRepository.cs",
+              "RelativeDocumentMoniker": "ApiPlay\\Repositories\\JoueurRepository.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JoueurRepository.cs",
+              "RelativeToolTip": "ApiPlay\\Repositories\\JoueurRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDEAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:44:51.277Z",
+              "EditorCaption": ""
             }
           ]
         }

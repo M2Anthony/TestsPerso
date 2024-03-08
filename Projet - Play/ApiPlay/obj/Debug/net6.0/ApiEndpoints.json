@@ -1,22 +1,257 @@
 [
   {
-    "ContainingType": "ApiPlay.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "ApiPlay.Controllers.JeuxController",
+    "Method": "Ajouter",
+    "RelativePath": "api/Jeux",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CheminJaquette",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Joueurs",
+        "Type": "System.Collections.Generic.List\u00601[[ApiPlay.Models.Joueur, ApiPlay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "JoueurJeuxs",
+        "Type": "System.Collections.Generic.List\u00601[[ApiPlay.Models.JoueurJeux, ApiPlay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JeuxController",
+    "Method": "GetAll",
+    "RelativePath": "api/Jeux",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JeuxController",
+    "Method": "Update",
+    "RelativePath": "api/Jeux",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ApiPlay.WeatherForecast, ApiPlay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CheminJaquette",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Joueurs",
+        "Type": "System.Collections.Generic.List\u00601[[ApiPlay.Models.Joueur, ApiPlay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "JoueurJeuxs",
+        "Type": "System.Collections.Generic.List\u00601[[ApiPlay.Models.JoueurJeux, ApiPlay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
       }
-    ]
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JeuxController",
+    "Method": "GetById",
+    "RelativePath": "api/Jeux/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JeuxController",
+    "Method": "Delete",
+    "RelativePath": "api/Jeux/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JeuxController",
+    "Method": "GetAll",
+    "RelativePath": "api/Jeux/titre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "titre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JoueurController",
+    "Method": "Post",
+    "RelativePath": "api/Joueur",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Pseudo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Age",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CheminAvatar",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Jeuxs",
+        "Type": "System.Collections.Generic.List\u00601[[ApiPlay.Models.Jeux, ApiPlay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "JoueurJeuxs",
+        "Type": "System.Collections.Generic.List\u00601[[ApiPlay.Models.JoueurJeux, ApiPlay, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JoueurController",
+    "Method": "GetAll",
+    "RelativePath": "api/Joueur",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JoueurController",
+    "Method": "Put",
+    "RelativePath": "api/Joueur",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "joueurModifie",
+        "Type": "ApiPlay.Models.Joueur",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JoueurController",
+    "Method": "Delete",
+    "RelativePath": "api/Joueur",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JoueurController",
+    "Method": "Get",
+    "RelativePath": "api/Joueur/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPlay.Controllers.JoueurController",
+    "Method": "Get",
+    "RelativePath": "api/Joueur/pseudo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pseudo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

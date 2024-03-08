@@ -42,12 +42,14 @@ namespace ApiPlay.Migrations
                 name: "JoueurJeuxs",
                 columns: table => new
                 {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     JoueurId = table.Column<int>(type: "int", nullable: false),
                     JeuxId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_JoueurJeuxs", x => new { x.JoueurId, x.JeuxId });
+                    table.PrimaryKey("PK_JoueurJeuxs", x => x.Id);
                     table.ForeignKey(
                         name: "FK_JoueurJeuxs_Jeuxs_JeuxId",
                         column: x => x.JeuxId,
@@ -62,10 +64,43 @@ namespace ApiPlay.Migrations
                         onDelete: ReferentialAction.Cascade);
                 });
 
+            migrationBuilder.InsertData(
+                table: "Jeuxs",
+                columns: new[] { "Id", "CheminJaquette", "Description", "Titre" },
+                values: new object[,]
+                {
+                    { 1, "Images/jaquette_elden_ring", "Un jeu FromSoftware", "Elden Ring" },
+                    { 2, "Images/jaquette_kena_bridge_of_spirits", "Un jeu Ember Labs", "Kena: Bridge of Spirits" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Joueurs",
+                columns: new[] { "Id", "Age", "CheminAvatar", "Pseudo" },
+                values: new object[,]
+                {
+                    { 1, 29, "Images/avatar_anthony", "Anthony" },
+                    { 2, 27, "Images/avatar_tanya", "Tanya" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "JoueurJeuxs",
+                columns: new[] { "Id", "JeuxId", "JoueurId" },
+                values: new object[] { 1, 1, 1 });
+
+            migrationBuilder.InsertData(
+                table: "JoueurJeuxs",
+                columns: new[] { "Id", "JeuxId", "JoueurId" },
+                values: new object[] { 2, 2, 2 });
+
             migrationBuilder.CreateIndex(
                 name: "IX_JoueurJeuxs_JeuxId",
                 table: "JoueurJeuxs",
                 column: "JeuxId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_JoueurJeuxs_JoueurId",
+                table: "JoueurJeuxs",
+                column: "JoueurId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

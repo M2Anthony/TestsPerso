@@ -1,0 +1,3 @@
+On pourrait essayer de mettre en place la possibilité de rechercher des villes parmi des villes qui existent vraiment
+
+Mettre en place un système de géolocalisation

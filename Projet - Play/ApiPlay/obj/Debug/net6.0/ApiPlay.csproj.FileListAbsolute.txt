@@ -276,3 +276,5 @@ C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\ApiPlay\bin\Debug\net
 C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\ApiPlay\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\ApiPlay\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\ApiPlay\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\ApiPlay\obj\Debug\net6.0\ApiPlay.RazorAssemblyInfo.cache
+C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\ApiPlay\obj\Debug\net6.0\ApiPlay.RazorAssemblyInfo.cs

@@ -15,19 +15,19 @@ namespace ApiPlay.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<JoueurJeux>()
-                .HasKey(pc => new { pc.JoueurId, pc.JeuxId });
+            modelBuilder.Entity<Joueur>()
+                        .HasMany(e => e.Jeuxs)
+                        .WithMany(e => e.Joueurs)
+                        .UsingEntity<JoueurJeux>();
 
-            modelBuilder.Entity<JoueurJeux>()
-                .HasOne(jo => jo.Joueur)
-                .WithMany(jj => jj.JoueurJeuxs)
-                .HasForeignKey(fk => fk.JoueurId);
+            /*modelBuilder.Entity<Jeux>()
+                        .HasMany(e => e.Joueurs)
+                        .WithMany(e => e.Jeuxs)
+                        .UsingEntity<JoueurJeux>();*/
 
-            modelBuilder.Entity<JoueurJeux>()
-                .HasOne(jo => jo.Jeux)
-                .WithMany(jj => jj.JoueurJeuxs)
-                .HasForeignKey(fk => fk.JeuxId);
-
+            modelBuilder.Entity<Joueur>().HasData(InitialData.listeJoueurs);
+            modelBuilder.Entity<Jeux>().HasData(InitialData.listeJeux);
+            modelBuilder.Entity<JoueurJeux>().HasData(InitialData.listeJoueurJeux);
 
         }
     }

@@ -4,6 +4,8 @@ namespace ApiPlay.Models
 {
     public class JoueurJeux
     {
+        public int Id { get; set; }
+
         [ForeignKey(nameof(Joueur))]
         public int JoueurId { get; set; }
 

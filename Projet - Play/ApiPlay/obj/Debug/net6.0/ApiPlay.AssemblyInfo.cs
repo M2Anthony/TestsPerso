@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiPlay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e588a61164a831bb4a1459fd2186d5af4daee928")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f75d4166dc015742c46e446596f0e96320e3d92")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiPlay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiPlay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

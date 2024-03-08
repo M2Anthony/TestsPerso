@@ -43,6 +43,22 @@ namespace ApiPlay.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Jeuxs");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CheminJaquette = "Images/jaquette_elden_ring",
+                            Description = "Un jeu FromSoftware",
+                            Titre = "Elden Ring"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CheminJaquette = "Images/jaquette_kena_bridge_of_spirits",
+                            Description = "Un jeu Ember Labs",
+                            Titre = "Kena: Bridge of Spirits"
+                        });
                 });
 
             modelBuilder.Entity("ApiPlay.Models.Joueur", b =>
@@ -66,21 +82,59 @@ namespace ApiPlay.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Joueurs");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Age = 29,
+                            CheminAvatar = "Images/avatar_anthony",
+                            Pseudo = "Anthony"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Age = 27,
+                            CheminAvatar = "Images/avatar_tanya",
+                            Pseudo = "Tanya"
+                        });
                 });
 
             modelBuilder.Entity("ApiPlay.Models.JoueurJeux", b =>
                 {
-                    b.Property<int>("JoueurId")
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<int>("JeuxId")
                         .HasColumnType("int");
 
-                    b.HasKey("JoueurId", "JeuxId");
+                    b.Property<int>("JoueurId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
 
                     b.HasIndex("JeuxId");
 
+                    b.HasIndex("JoueurId");
+
                     b.ToTable("JoueurJeuxs");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            JeuxId = 1,
+                            JoueurId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            JeuxId = 2,
+                            JoueurId = 2
+                        });
                 });
 
             modelBuilder.Entity("ApiPlay.Models.JoueurJeux", b =>
