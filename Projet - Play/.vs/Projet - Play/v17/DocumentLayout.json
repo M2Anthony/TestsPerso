@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\",
+  "WorkspaceRootPath": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\controllers\\jeuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\controllers\\jeuxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\pages\\compteur.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\pages\\compteur.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\repositories\\jeuxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\repositories\\jeuxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\repositories\\joueurrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\repositories\\joueurrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\controllers\\joueurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\controllers\\joueurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\apiplay\\models\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8C7F1AA-E484-4F2C-BDF1-1B4154817FB6}|ApiPlay\\ApiPlay.csproj|solutionrelative:apiplay\\models\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,80 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JeuxRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JeuxRepository.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Repositories\\JeuxRepository.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JeuxRepository.cs",
-              "RelativeToolTip": "ApiPlay\\Repositories\\JeuxRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAADwvycAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T14:26:18.724Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorPlay\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorPlay\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T19:08:43.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JeuxController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Controllers\\JeuxController.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Controllers\\JeuxController.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Controllers\\JeuxController.cs",
-              "RelativeToolTip": "ApiPlay\\Controllers\\JeuxController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T14:17:13.147Z",
+              "Title": "Compteur.razor",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Compteur.razor",
+              "RelativeDocumentMoniker": "BlazorPlay\\Pages\\Compteur.razor",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Compteur.razor",
+              "RelativeToolTip": "BlazorPlay\\Pages\\Compteur.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T18:54:01.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "JoueurController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Controllers\\JoueurController.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Controllers\\JoueurController.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Controllers\\JoueurController.cs",
-              "RelativeToolTip": "ApiPlay\\Controllers\\JoueurController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T14:03:18.656Z",
-              "EditorCaption": ""
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorPlay\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "BlazorPlay\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T18:52:48.11Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Joueur.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\Joueur.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Models\\Joueur.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Models\\Joueur.cs",
-              "RelativeToolTip": "ApiPlay\\Models\\Joueur.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorPlay\\Program.cs",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Program.cs",
+              "RelativeToolTip": "BlazorPlay\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T13:47:10.866Z",
+              "WhenOpened": "2024-03-10T18:52:03.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazorPlay\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazorPlay\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwEAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-10T18:51:19.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JoueurRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JoueurRepository.cs",
-              "RelativeDocumentMoniker": "ApiPlay\\Repositories\\JoueurRepository.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\ApiPlay\\Repositories\\JoueurRepository.cs",
-              "RelativeToolTip": "ApiPlay\\Repositories\\JoueurRepository.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwDEAAACGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T13:44:51.277Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorPlay\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorPlay\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-10T18:49:01.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorPlay\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\_Imports.razor",
+              "RelativeToolTip": "BlazorPlay\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T18:46:08.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorPlay\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorPlay\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T18:34:15.032Z"
             }
           ]
         }

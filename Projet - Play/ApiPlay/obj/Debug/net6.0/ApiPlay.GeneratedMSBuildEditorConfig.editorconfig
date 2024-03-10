@@ -9,35 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiPlay
 build_property.RootNamespace = ApiPlay
-build_property.ProjectDir = C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\ApiPlay\
+build_property.ProjectDir = C:\Users\Anthony\Documents\M2i\Formation M2i - 19-12-23\TestsPerso\Projet - Play\ApiPlay\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\ApiPlay
+build_property.MSBuildProjectDirectory = C:\Users\Anthony\Documents\M2i\Formation M2i - 19-12-23\TestsPerso\Projet - Play\ApiPlay
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Create.cshtml]
+[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm91ZXVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Delete.cshtml]
+[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm91ZXVyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Details.cshtml]
+[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm91ZXVyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Edit.cshtml]
+[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm91ZXVyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Index.cshtml]
+[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/ApiPlay/Views/Joueur/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm91ZXVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/ApiPlay/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/ApiPlay/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
