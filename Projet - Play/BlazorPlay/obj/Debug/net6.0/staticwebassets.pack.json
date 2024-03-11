@@ -1,35 +1,35 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\obj\\Debug\\net6.0\\compressed\\0wt2ky7pj7.gz",
+      "Id": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\obj\\Debug\\net6.0\\compressed\\u6qu77uktv.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorPlay.styles.css",
+      "Id": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorPlay.styles.css",
       "PackagePath": "staticwebassets\\BlazorPlay.styles.css"
     },
     {
-      "Id": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

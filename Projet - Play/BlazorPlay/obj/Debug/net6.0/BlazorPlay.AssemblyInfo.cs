@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorPlay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6179f2f4b24976c7e10ed7feb1376019562654c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+611a3c196f950a277ef8b02374f99b6279f27482")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorPlay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorPlay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+On effectue depuis le Front une requête Http qui passe par le contrôleur et on récupère (de base) un objet anonyme
+
+Une possibilité pour ne pas récupérer un objet anonyme c'est de faire un DTO et lorsque la requête fonctionne (dans le controller)
+on fait un new LoginResponseDTO avec les informations c'est à dire l'utilisateur et le token de l'utilisateur
+
+Lorsqu'on a ces informations, il faut les stocker dans le localStorage (packageNuget à télécharger) afin de conserver le JWT de l'utilisateur et
+faire en sorte qu'il puisse rester identifié.
+
+Pour ça il faut passer par un Singleton (comme pour la FakeDb) 
+
+(Regarder sur le Git : Blazored LocalStorage)

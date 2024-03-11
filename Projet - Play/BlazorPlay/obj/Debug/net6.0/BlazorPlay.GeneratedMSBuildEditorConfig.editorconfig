@@ -13,43 +13,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorPlay
 build_property.RootNamespace = BlazorPlay
-build_property.ProjectDir = C:\Users\Anthony\Documents\M2i\Formation M2i - 19-12-23\TestsPerso\Projet - Play\BlazorPlay\
+build_property.ProjectDir = C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\BlazorPlay\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Anthony\Documents\M2i\Formation M2i - 19-12-23\TestsPerso\Projet - Play\BlazorPlay
+build_property.MSBuildProjectDirectory = C:\Users\Administrateur\Documents\TestsPerso\Projet - Play\BlazorPlay
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/BlazorPlay/App.razor]
+[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/BlazorPlay/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/BlazorPlay/Pages/Compteur.razor]
+[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/BlazorPlay/Pages/Compteur.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcHRldXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/BlazorPlay/Pages/FetchData.razor]
+[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/BlazorPlay/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/BlazorPlay/Pages/Index.razor]
+[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/BlazorPlay/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/BlazorPlay/Shared/SurveyPrompt.razor]
+[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/BlazorPlay/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/BlazorPlay/_Imports.razor]
+[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/BlazorPlay/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/BlazorPlay/Shared/MainLayout.razor]
+[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/BlazorPlay/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-t5a8wz6qik
 
-[C:/Users/Anthony/Documents/M2i/Formation M2i - 19-12-23/TestsPerso/Projet - Play/BlazorPlay/Shared/NavMenu.razor]
+[C:/Users/Administrateur/Documents/TestsPerso/Projet - Play/BlazorPlay/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-srgkbsj823

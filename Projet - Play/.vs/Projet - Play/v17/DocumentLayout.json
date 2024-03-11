@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\pages\\compteur.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\pages\\compteur.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\blazorplay\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\blazorplay\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\anthony\\documents\\m2i\\formation m2i - 19-12-23\\testsperso\\projet - play\\blazorplay\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\blazorplay\\pages\\compteur.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\pages\\compteur.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\blazorplay\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\blazorplay\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\blazorplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\blazorplay\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|c:\\users\\administrateur\\documents\\testsperso\\projet - play\\blazorplay\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{299A7C11-C75A-4414-A3FC-A5237FDB1821}|BlazorPlay\\BlazorPlay.csproj|solutionrelative:blazorplay\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,19 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorPlay\\Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\NavMenu.razor",
               "RelativeToolTip": "BlazorPlay\\Shared\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -62,36 +66,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Compteur.razor",
-              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Compteur.razor",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Compteur.razor",
               "RelativeDocumentMoniker": "BlazorPlay\\Pages\\Compteur.razor",
-              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Compteur.razor",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Compteur.razor",
               "RelativeToolTip": "BlazorPlay\\Pages\\Compteur.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABpAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-10T18:54:01.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorPlay\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Shared\\MainLayout.razor",
               "RelativeToolTip": "BlazorPlay\\Shared\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T18:52:48.11Z"
+              "WhenOpened": "2024-03-10T18:52:48.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Program.cs",
               "RelativeDocumentMoniker": "BlazorPlay\\Program.cs",
-              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Program.cs",
               "RelativeToolTip": "BlazorPlay\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,24 +104,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\css\\app.css",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "BlazorPlay\\wwwroot\\css\\app.css",
-              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\css\\app.css",
               "RelativeToolTip": "BlazorPlay\\wwwroot\\css\\app.css",
               "ViewState": "AQIAAB0AAAAAAAAAAAAYwEAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-10T18:51:19.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T18:51:19.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "BlazorPlay\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\wwwroot\\index.html",
               "RelativeToolTip": "BlazorPlay\\wwwroot\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -124,23 +128,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\_Imports.razor",
               "RelativeDocumentMoniker": "BlazorPlay\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\_Imports.razor",
               "RelativeToolTip": "BlazorPlay\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T18:46:08.769Z"
+              "WhenOpened": "2024-03-10T18:46:08.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Index.razor",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorPlay\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\Anthony\\Documents\\M2i\\Formation M2i - 19-12-23\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TestsPerso\\Projet - Play\\BlazorPlay\\Pages\\Index.razor",
               "RelativeToolTip": "BlazorPlay\\Pages\\Index.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
