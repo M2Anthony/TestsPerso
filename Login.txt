@@ -9,3 +9,5 @@ faire en sorte qu'il puisse rester identifié.
 Pour ça il faut passer par un Singleton (comme pour la FakeDb) 
 
 (Regarder sur le Git : Blazored LocalStorage)
+
+	Naveen Bommidi : Part-3 / 3:00 => Program.cs
